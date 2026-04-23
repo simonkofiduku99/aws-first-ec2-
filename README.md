@@ -1,4 +1,4 @@
-# aws-first-ec2-
+# aws-first-ec2
 First AWS EC2 Launch from Accra , free tier+ security -first.
 # First AWS EC2 Launch - Apr 22, 2026
    
